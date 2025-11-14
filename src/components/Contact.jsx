@@ -48,7 +48,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-teal-900 mb-1">Email</h3>
-                  <p className="text-gray-600">admin@blessingscareltd.co.uk</p>
+                  <p className="text-gray-600">admin@sanrose.co.uk</p>
                 </div>
               </div>
 
